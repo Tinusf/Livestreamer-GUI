@@ -1,0 +1,39 @@
+D:\GDoc\Visual Studio 2015\Projects\Livestreamer GUI\Livestreamer GUI\bin\Debug\Livestreamer GUI.exe.config
+D:\GDoc\Visual Studio 2015\Projects\Livestreamer GUI\Livestreamer GUI\bin\Debug\Livestreamer GUI.exe
+D:\GDoc\Visual Studio 2015\Projects\Livestreamer GUI\Livestreamer GUI\bin\Debug\Livestreamer GUI.pdb
+D:\GDoc\Visual Studio 2015\Projects\Livestreamer GUI\Livestreamer GUI\obj\Debug\Livestreamer GUI.csprojResolveAssemblyReference.cache
+D:\GDoc\Visual Studio 2015\Projects\Livestreamer GUI\Livestreamer GUI\obj\Debug\Livestreamer_GUI.Form1.resources
+D:\GDoc\Visual Studio 2015\Projects\Livestreamer GUI\Livestreamer GUI\obj\Debug\Livestreamer_GUI.Properties.Resources.resources
+D:\GDoc\Visual Studio 2015\Projects\Livestreamer GUI\Livestreamer GUI\obj\Debug\Livestreamer GUI.csproj.GenerateResource.Cache
+D:\GDoc\Visual Studio 2015\Projects\Livestreamer GUI\Livestreamer GUI\obj\Debug\Livestreamer GUI.exe
+D:\GDoc\Visual Studio 2015\Projects\Livestreamer GUI\Livestreamer GUI\obj\Debug\Livestreamer GUI.pdb
+D:\Dokumenter\Visual Studio 2015\Projects\Livestreamer GUI\Livestreamer GUI\bin\Debug\Livestreamer GUI.exe.config
+D:\Dokumenter\Visual Studio 2015\Projects\Livestreamer GUI\Livestreamer GUI\obj\Debug\Livestreamer GUI.exe
+D:\Dokumenter\Visual Studio 2015\Projects\Livestreamer GUI\Livestreamer GUI\obj\Debug\Livestreamer GUI.pdb
+D:\GDoc\Visual Studio 2015\Projects\Livestreamer GUI\Livestreamer GUI\bin\Debug\Livestreamer GUI.exe.manifest
+D:\GDoc\Visual Studio 2015\Projects\Livestreamer GUI\Livestreamer GUI\bin\Debug\Livestreamer GUI.application
+D:\GDoc\Visual Studio 2015\Projects\Livestreamer GUI\Livestreamer GUI\obj\Debug\Livestreamer GUI.exe.manifest
+D:\GDoc\Visual Studio 2015\Projects\Livestreamer GUI\Livestreamer GUI\obj\Debug\Livestreamer GUI.application
+D:\Dokumenter\Visual Studio 2015\Projects\Livestreamer GUI\Livestreamer GUI\obj\Debug\Livestreamer GUI.csprojResolveAssemblyReference.cache
+D:\Dokumenter\Visual Studio 2015\Projects\Livestreamer GUI\Livestreamer GUI\obj\Debug\Livestreamer_GUI.Form1.resources
+D:\Dokumenter\Visual Studio 2015\Projects\Livestreamer GUI\Livestreamer GUI\obj\Debug\Livestreamer_GUI.Properties.Resources.resources
+D:\Dokumenter\Visual Studio 2015\Projects\Livestreamer GUI\Livestreamer GUI\obj\Debug\Livestreamer GUI.csproj.GenerateResource.Cache
+D:\Dokumenter\Visual Studio 2015\Projects\Livestreamer GUI\Livestreamer GUI\bin\Debug\Livestreamer GUI.exe.manifest
+D:\Dokumenter\Visual Studio 2015\Projects\Livestreamer GUI\Livestreamer GUI\bin\Debug\Livestreamer GUI.application
+D:\Dokumenter\Visual Studio 2015\Projects\Livestreamer GUI\Livestreamer GUI\bin\Debug\Livestreamer GUI.exe
+D:\Dokumenter\Visual Studio 2015\Projects\Livestreamer GUI\Livestreamer GUI\bin\Debug\Livestreamer GUI.pdb
+D:\Dokumenter\Visual Studio 2015\Projects\Livestreamer GUI\Livestreamer GUI\obj\Debug\Livestreamer GUI.exe.manifest
+D:\Dokumenter\Visual Studio 2015\Projects\Livestreamer GUI\Livestreamer GUI\obj\Debug\Livestreamer GUI.application
+C:\Documents\Visual Studio 2015\Projects\Livestreamer GUI\Livestreamer GUI\bin\Debug\Livestreamer GUI.exe.config
+C:\Documents\Visual Studio 2015\Projects\Livestreamer GUI\Livestreamer GUI\obj\Debug\Livestreamer GUI.exe
+C:\Documents\Visual Studio 2015\Projects\Livestreamer GUI\Livestreamer GUI\obj\Debug\Livestreamer GUI.pdb
+C:\Documents\Visual Studio 2015\Projects\Livestreamer GUI\Livestreamer GUI\bin\Debug\Livestreamer GUI.exe.manifest
+C:\Documents\Visual Studio 2015\Projects\Livestreamer GUI\Livestreamer GUI\bin\Debug\Livestreamer GUI.application
+C:\Documents\Visual Studio 2015\Projects\Livestreamer GUI\Livestreamer GUI\bin\Debug\Livestreamer GUI.exe
+C:\Documents\Visual Studio 2015\Projects\Livestreamer GUI\Livestreamer GUI\bin\Debug\Livestreamer GUI.pdb
+C:\Documents\Visual Studio 2015\Projects\Livestreamer GUI\Livestreamer GUI\obj\Debug\Livestreamer GUI.csprojResolveAssemblyReference.cache
+C:\Documents\Visual Studio 2015\Projects\Livestreamer GUI\Livestreamer GUI\obj\Debug\Livestreamer_GUI.Form1.resources
+C:\Documents\Visual Studio 2015\Projects\Livestreamer GUI\Livestreamer GUI\obj\Debug\Livestreamer_GUI.Properties.Resources.resources
+C:\Documents\Visual Studio 2015\Projects\Livestreamer GUI\Livestreamer GUI\obj\Debug\Livestreamer GUI.csproj.GenerateResource.Cache
+C:\Documents\Visual Studio 2015\Projects\Livestreamer GUI\Livestreamer GUI\obj\Debug\Livestreamer GUI.exe.manifest
+C:\Documents\Visual Studio 2015\Projects\Livestreamer GUI\Livestreamer GUI\obj\Debug\Livestreamer GUI.application
