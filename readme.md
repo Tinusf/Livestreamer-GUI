@@ -9,6 +9,7 @@ Easy to import the streams you are following on Twitch.tv.
 
 <h2>How to download  </h2>
 Go to the releases folder and click on the version you want to download, then click "View Raw".  
+Or click here: https://github.com/Tinusf/Livestreamer-GUI/blob/master/releases/Livestreamer%20GUI.exe?raw=true  
 
 Created by Tinus :D  
 
