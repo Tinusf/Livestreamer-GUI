@@ -7,6 +7,8 @@ Easy to import the streams you are following on Twitch.tv.
 <h2>Pre-requisit:  </h2>
 -You need to download and install livestreamer and vlc (or some other video player) http://docs.livestreamer.io/  
 
+<h2>How to download  </h2>
+Go to the releases folder and click on the version you want to download, then click "View Raw".  
 
 Created by Tinus :D  
 
